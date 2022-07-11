@@ -31,4 +31,4 @@ only the magnitude matters, not the direction. As we can see, there is a clearer
 
 So, indeed, the correlation went from mean-reverting around 0, to just positive.
 
-And by comparing the left and the right, we can also see market volatility became higher too.
+And by comparing the scale of the left and that of the right, we can also see market volatility became higher too (from -5~5,0~50 to -10~10, 0~150). 
